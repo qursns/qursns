@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Vertical spacer -->
   <br>
 
-  <!-- Decorative brackets with better spacing -->
   <p align="left">
     <samp>
       「
@@ -24,26 +22,22 @@
             </p>
     </samp>
   </p>
-
-  <p align="right">
-    <samp>
-      」
-    </samp>
-  </p>
   
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)](https://vitejs.dev/)   
 
-
-
-  <!-- Minimal stats -->
   <p align="center">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=c6at&count_private=true&show_icons=true&theme=date_night&hide_border=true&include_all_commits=true&line_height=24" 
-      alt="stats"
-    >
+      alt="stats">
+    
+  </p>
+    <p align="right">
+    <samp>
+      」
+    </samp>
   </p>
 
 </div>
