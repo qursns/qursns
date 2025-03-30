@@ -11,11 +11,10 @@
   <!-- Main content -->
   <p align="center">
     <samp>
-      <b>I'm ary (c6at)</b>
       <br><br>
       <img 
-        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1000&color=816655&width=435&lines=%22The+fool+that+doesn%27t+belong+to+this+era.%22" 
-        alt="Lord of the Mysteries quote">
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=I'm+ary+(c6at)" 
+        alt="???">
         <p align="center">
       [<a href="https://twitter.com/qursary">twitter</a>]&nbsp;&nbsp;
       [<a href="https://discordapp.com/users/1311336928297353256">discord</a>]
@@ -30,7 +29,7 @@
 
   <p align="center">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=c6at&count_private=true&show_icons=true&theme=date_night&hide_border=true&include_all_commits=true&line_height=24" 
+      src="https://github-readme-stats.vercel.app/api?username=c6at&count_private=true&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&line_height=24" 
       alt="stats">
     
   </p>
