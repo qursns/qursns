@@ -13,19 +13,15 @@
     <samp>
       <br><br>
       <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=I'm+ary+(c6at)" 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=I'm+ary+(qursns)" 
         alt="???">
         <p align="center">
       [<a href="https://twitter.com/qursary">twitter</a>]&nbsp;&nbsp;
-      [<a href="https://discordapp.com/users/1311336928297353256">discord</a>]
+      [<a href="https://discordapp.com/users/1351887322118881342">discord</a>]
             </p>
     </samp>
   </p>
   
-[![](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)](https://vitejs.dev/)   
 
   <p align="center">
     <img 
